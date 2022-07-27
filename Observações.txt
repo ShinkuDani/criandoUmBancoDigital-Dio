@@ -1,0 +1,9 @@
+Criando um Banco Digital com Java e Orientação a Objetos:
+
+Polimorfismo:
+Capacidade de um objeto poder ser referenciado de várias formas, ou seja, 
+é a capacidade de tratar objetos criados a partir das classes específicas como objetos 
+de uma classe genérica.
+
+Polimorfismo não quer dizer que o objeto fica se transformando, um objeto nasce de um tipo
+e morre do mesmo tipo, o que pode mudar é a maneira como ele é referenciado.
